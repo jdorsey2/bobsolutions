@@ -13,13 +13,15 @@
   <body>
     <script src="./src/index.js"></script>
     <nav>
-      <li><a href=/>HOME</li>
-      <li><a href=/pages/learning>LEARNING</a></li>
+      
+      <a href=/>HOME</a>
+      <a href=../pages/learning>LEARNING</a>
     </nav>
     
     <main>
+        
+        <h1>Daily Learning Journal</h1>
         <p>Here are my networking learnings </p>
-        <h1></h1>
 
     </main>
 

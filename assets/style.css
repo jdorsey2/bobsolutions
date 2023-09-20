@@ -3,12 +3,31 @@
 nav {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    justify-content: flex-end;
     align-items: center;
-    column-gap: 15px;
+    column-gap: 3rem;
+    font-size: 40;
+    margin: 0rem 0rem 2rem;
+    padding: 2rem 2rem 1rem;
+    background-color: black;
     
 }
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+}
 
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2rem;
+    height: 85vh;
+}
+h1 {
+    margin: 0rem 2rem 0;
+
+}
 img {
     display: flex;
     flex-direction: column;
