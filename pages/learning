@@ -19,16 +19,22 @@
     
     <main>
         <p>Here are my networking learnings </p>
+        <h1></h1>
 
     </main>
 
     <article>
-      <img src="../assets/images/one/configuringRouter.png" alt="">
-      <img src="../assets/images/one/showIpIntB.png" alt="">
-      <img src="../assets/images/one/showIntType.png" alt="">
-      <img src="../assets/images/one/PCsetup.png" alt="">
-      <img src="../assets/images/one/ping.png" alt="">
-      <img src="../assets/images/one/configNetwork.png" alt="">
+      <h2>Router Configuration</h2>
+      <p>Here is a console connection to configure a router</p>
+      <img src="../assets/images/one/configuringRouter.png" alt=""><b>
+        <p>Here is the ip address that is statically configured</p>
+      <img src="../assets/images/one/showIpIntB.png" alt=""><b>
+      <img src="../assets/images/one/showIntType.png" alt=""><br>
+      <p>Setting up a PC for the network</p>
+      <img src="../assets/images/one/PCsetup.png" alt=""><b>
+        <p>Here is a test of the connection and the finished typology</p>
+      <img src="../assets/images/one/ping.png" alt=""><b>
+      <img src="../assets/images/one/configNetwork.png" alt=""><br>
 
     </article>
 
