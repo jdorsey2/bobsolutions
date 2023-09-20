@@ -1,0 +1,13 @@
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+img {
+    display: flex;
+    flex-direction: column;
+}
