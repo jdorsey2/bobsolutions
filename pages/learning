@@ -16,14 +16,12 @@
       
       <a href=/>HOME</a>
       <a href=../pages/learning>LEARNING</a>
+      <a href="../pages/learning">CONTENT</a>
+      <a href="../pages/learning">ABOUT</a>
     </nav>
-    
-    <main>
         
-        <h1>Daily Learning Journal</h1>
-        <p>Here are my networking learnings </p>
-
-    </main>
+    <h1>Daily Learning Journal</h1>
+      <p>Here are my networking learnings </p>
 
     <article>
       <h2>Router Configuration</h2>
