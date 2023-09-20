@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA Compatible" content="ie=edge">
+
+    <title>My Learning</title>
+    <link rel="stylesheet" href="style.css"
+    <script src=""></script>
+  </head>
+
+  <body>
+    <script src="./src/index.js"></script>
+    <nav>
+      <li><a href=/>HOME</li>
+      <li><a href=/pages/learning>LEARNING</a></li>
+    </nav>
+    
+    <main>
+        <p>Here are my networking learnings </p>
+
+    </main>
+
+    <article>
+
+    </article>
+
+    <footer><p>@Jason Dorsey</p></footer>
+  </body>
+</html>
