@@ -5,15 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA Compatible" content="ie=edge">
 
-    <title>My Learning</title>
-    <link rel="stylesheet" href="../assets/style.css"
-    <script src=""></script>
+    <title>Personal Tutorials</title>
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="../assets/pagesStyle/learning.css">
   </head>
 
   <body>
-    <script src="./src/index.js"></script>
     <nav>
-      
       <a href=/>HOME</a>
       <a href=../pages/learning>LEARNING</a>
       <a href="../pages/learning">CONTENT</a>
@@ -21,10 +19,11 @@
     </nav>
         
     <h1>Daily Learning Journal</h1>
-      <p>Here are my networking learnings </p>
+      <p>A summary of my daily learning activities </p>
 
     <article>
-      <h2>Router Configuration</h2>
+      <h2>Topic: Router Configuration</h2>
+      
       <p>Here is a console connection to configure a router</p>
       <img src="../assets/images/one/configuringRouter.png" alt=""><b>
         <p>Here is the ip address that is statically configured</p>

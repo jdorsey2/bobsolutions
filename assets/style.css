@@ -1,5 +1,5 @@
-
-
+/* Global Website style sheet*/
+/* menu bar*/
 nav {
     display: flex;
     flex-direction: row;
@@ -17,18 +17,6 @@ nav a {
     text-decoration: none;
 }
 
-main {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 2rem;
-    height: 85vh;
-}
 h1 {
     margin: 0rem 2rem 0;
-
-}
-img {
-    display: flex;
-    flex-direction: column;
 }

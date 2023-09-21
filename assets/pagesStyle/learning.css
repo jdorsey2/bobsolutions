@@ -1,0 +1,8 @@
+/* For learning page*/
+img { 
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+    
+    
+}
