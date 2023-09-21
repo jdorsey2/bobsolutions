@@ -22,7 +22,18 @@
       <p class="header">A summary of my daily learning activities </p>
       <hr>
 
-    <article>
+      <main>
+        <h2>Basic Labs: Networking</h2>
+        <h3>Router Configuration with Packet Tracer</h3>
+        <p>For a summary of basic router configuration with screenshots, <a href="./archives/october23/one.html">click here</a></p>
+      </main>
+
+    <article> <!-- this will be a landing page for my learning content-->
+
+
+
+
+      <!--
       <h2>Topic: Router Configuration</h2>
 
       <section>
@@ -44,6 +55,7 @@
       <img src="../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
       <p>Here is a test of the connection and the finished typology</p>
       </section>
+    -->
 
     </article>
 
