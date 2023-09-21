@@ -7,6 +7,7 @@
 }
 article {
     margin: 3rem 4rem 0;
+    padding-top: 8px;
 }
 article h2 {
     margin: 0rem 1rem 0;
@@ -17,8 +18,10 @@ section {
     grid-template-rows: auto;
 }
 section p {
-    padding: 3rem 0rem 0;
+    padding-top: 6px;
+    
 }
 img { 
     width: 30rem;
+    padding-bottom: 2px;
 }
