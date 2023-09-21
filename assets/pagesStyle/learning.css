@@ -3,10 +3,10 @@
     margin: 0rem 2rem 0;
 }
 .header p {
-    margin: 0rem 1rem 0;
+    margin: 1rem 3rem 0;
 }
 article {
-    margin: 0rem 4rem 0;
+    margin: 3rem 4rem 0;
 }
 article h2 {
     margin: 0rem 1rem 0;
@@ -15,6 +15,9 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
+}
+section p {
+    padding: 3rem 0rem 0;
 }
 img { 
     width: 30rem;
