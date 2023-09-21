@@ -20,27 +20,28 @@
         
     <h1 class="header">Daily Learning Journal</h1>
       <p class="header">A summary of my daily learning activities </p>
+      <hr>
 
     <article>
       <h2>Topic: Router Configuration</h2>
 
       <section>
-      <img src="../assets/images/one/configuringRouter.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/configuringRouter.png" alt="">
       <p>Here is a console connection to configure a router</p>
         
-      <img src="../assets/images/one/showIpIntB.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/showIpIntB.png" alt="">
       <p>Here is the ip address that is statically configured</p>
 
-      <img src="../assets/images/one/showIntType.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/showIntType.png" alt="">
       <p>Some details on the particular interface</p>
       
-      <img src="../assets/images/one/PCsetup.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/PCsetup.png" alt="">
       <p>Setting up a PC for the network</p>
         
-      <img src="../assets/images/one/ping.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/ping.png" alt="">
         <p>testing the IP stack</p>
         
-      <img src="../assets/images/one/configNetwork.png" alt="">
+      <img src="../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
       <p>Here is a test of the connection and the finished typology</p>
       </section>
 
