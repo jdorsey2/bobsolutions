@@ -1,4 +1,9 @@
 /* Global Website style sheet*/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 /* menu bar*/
 nav {
     display: flex;
