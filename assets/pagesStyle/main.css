@@ -6,3 +6,6 @@ main {
     gap: 2rem;
     height: 85vh;
 }
+main h1 {
+    margin: 0rem 2rem 0;
+}
