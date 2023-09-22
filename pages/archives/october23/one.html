@@ -23,8 +23,24 @@
       <hr>
 
     <article>
-      <h2>Topic: Router Configuration</h2>
-
+      <h2>Fundamental Topic: Router Configuration</h2>
+      <p>Minimal configuration for setting up a basic network with one router, switch
+        and PC. An IP address is configured on a router and a PC with a private subnet. 
+      </p>
+      <p>Objective: Demonstrate a fundamental skill in configuring the most minimal 
+        LAN possible, in order to showcase the steps to be expanded upon later in a 
+        more developed network. 
+      </p>
+      <p> Outcome: Test the network with a ping command to ensure integrity of IP stack</p>
+      <ol>
+        <p>Steps</p>
+        <li>Determine private network IPv4 with appropriate subnet</li>
+        <li>add the first IP address and subnet mask to the router using ip address command</li>
+        <li>turn on the router interface</li>
+        <li>Configure PC with appropriate IPv4 address and subnet mask </li>
+        <li>Set up default gateway in PC</li>
+        <li>Test the setup with the ping command</li>
+      </ol>
       <section>
       <img src="../../../assets/images/archiveImages/october23/one/configuringRouter.png" alt="">
       <p>Here is a console connection to configure a router</p>
@@ -44,8 +60,20 @@
       <img src="../../../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
       <p>Here is a test of the connection and the finished typology</p>
       </section>
-
+      <p>From here, one can add additional endpoints to the switch to make it a full LAN
+        network. The process of configuring it is fundamentally the same as shown here. 
+        Just configure each endpoint device with an IP address and default gateway. Test 
+        with the ping tool and you have a LAN.
+      </p>
     </article>
+
+    <aside>
+      <h3>Key Learnings</h3>
+      <ul>
+        <li>Ensure screenshots are as wide as possible rather than really tall</li>
+        <li>Make more focused screenshots</li>
+      </ul>
+    </aside>
 
     <hr>
     <footer><p>@Jason Dorsey</p></footer>
