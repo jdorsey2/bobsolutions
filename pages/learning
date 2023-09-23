@@ -23,15 +23,20 @@
       <hr>
 
       <main> <!-- this will be a landing page for my learning content-->
-        <h2>Basic Labs: Networking</h2>
-        <p>These labs will showcase fundamental designs</p>
+        <div class="learning">
+          <h2>Basic Labs: Networking</h2>
+          <p>These labs will showcase fundamental designs</p>
         
-        <h3>Basic LAN and router with Packet Tracer</h3>
-        <p>For a summary of basic LAN configuration with screenshots, <a href="./archives/october23/one.html">click here</a></p>
+          <h3>Basic LAN and router with Packet Tracer</h3>
+          <p>For a summary of basic LAN configuration with screenshots, <a href="./archives/october23/one.html">click here</a></p>
+        </div>
         
-        <h2>Practice Labs: Networking</h2>
-        <p>Labs that extend from the basic labs</p>
-        <h3></h3>
+        <div class="learning">
+          <h2>Practice Labs: Networking</h2>
+          <p>Labs that extend from the basic labs</p>
+          <h3></h3>
+        </div>
+        
       </main>
 
     <section> <!-- unsure if needed yet-->
