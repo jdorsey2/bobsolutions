@@ -1,0 +1,42 @@
+/* Page layout*/
+#page-container {
+    margin: 0 3rem 0 3rem;
+}
+
+h1 {
+    margin-top: 1rem;
+    font-weight: 400;
+    font-size: 1.8em;
+}
+
+h2 {
+    margin-top: 2rem;
+    font-weight: 400;
+    
+}
+/* may not need if this is in article*/
+.secondHeading {
+    margin-left: 2rem;
+}
+article {
+    margin-left: 2rem;
+    margin-top: 2rem;
+    max-width: 80vw;
+}
+article p {
+    margin: 1rem 1rem 1rem 0;
+}
+
+
+/* Style*/
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: verdana;
+}
+h1, h2 {
+    font-family: arial;
+}
+h1 p, h2 p {
+    font-family: giorgia;
+}

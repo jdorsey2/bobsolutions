@@ -24,38 +24,15 @@
 
       <main>
         <h2>Basic Labs: Networking</h2>
-        <h3>Router Configuration with Packet Tracer</h3>
-        <p>For a summary of basic router configuration with screenshots, <a href="./archives/october23/one.html">click here</a></p>
+        <p>These labs will showcase fundamental designs</p>
+        <h3>Basic LAN and router with Packet Tracer</h3>
+        <p>For a summary of basic LAN configuration with screenshots, <a href="./archives/october23/one.html">click here</a></p>
+        
+        <h2>Practice Labs: Networking</h2>
+        <p>Labs that extend from the basic labs</p>
       </main>
 
     <article> <!-- this will be a landing page for my learning content-->
-
-
-
-
-      <!--
-      <h2>Topic: Router Configuration</h2>
-
-      <section>
-      <img src="../assets/images/archiveImages/october23/one/configuringRouter.png" alt="">
-      <p>Here is a console connection to configure a router</p>
-        
-      <img src="../assets/images/archiveImages/october23/one/showIpIntB.png" alt="">
-      <p>Here is the ip address that is statically configured</p>
-
-      <img src="../assets/images/archiveImages/october23/one/showIntType.png" alt="">
-      <p>Some details on the particular interface</p>
-      
-      <img src="../assets/images/archiveImages/october23/one/PCsetup.png" alt="">
-      <p>Setting up a PC for the network</p>
-        
-      <img src="../assets/images/archiveImages/october23/one/ping.png" alt="">
-        <p>testing the IP stack</p>
-        
-      <img src="../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
-      <p>Here is a test of the connection and the finished typology</p>
-      </section>
-    -->
 
     </article>
 

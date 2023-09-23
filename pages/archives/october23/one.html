@@ -7,7 +7,7 @@
 
     <title>Personal Tutorials</title>
     <link rel="stylesheet" href="../../../assets/style.css">
-    <link rel="stylesheet" href="../../../assets/pagesStyle/learning.css">
+    <link rel="stylesheet" href="../../../assets/pagesStyle/article.css">
   </head>
 
   <body>
@@ -17,65 +17,69 @@
       <a href="../pages/learning">CONTENT</a>
       <a href="../pages/learning">ABOUT</a>
     </nav>
-        
-    <h1 class="header">Daily Learning Journal</h1>
-      <p class="header">A summary of my daily learning activities </p>
+    
+    <div id="page-container">
+
+      <h1 class="firstHeading">Daily Learning Journal</h1>
+      <p class="firstHeading">A summary of my daily learning activities </p>
       <hr>
 
-    <article>
-      <h2>Fundamental Topic: Router Configuration</h2>
-      <p>Minimal configuration for setting up a basic network with one router, switch
+      <article>
+        <h2 class="secondHeading">Fundamental Topic: Basic LAN Configuration</h2>
+        <p class="secondHeadong">Minimal configuration for setting up a basic network with one router, switch
         and PC. An IP address is configured on a router and a PC with a private subnet. 
-      </p>
-      <p>Objective: Demonstrate a fundamental skill in configuring the most minimal 
+        </p>
+        <p>Objective: Demonstrate a fundamental skill in configuring the most minimal 
         LAN possible, in order to showcase the steps to be expanded upon later in a 
         more developed network. 
-      </p>
-      <p> Outcome: Test the network with a ping command to ensure integrity of IP stack</p>
-      <ol>
-        <p>Steps</p>
-        <li>Determine private network IPv4 with appropriate subnet</li>
-        <li>add the first IP address and subnet mask to the router using ip address command</li>
-        <li>turn on the router interface</li>
-        <li>Configure PC with appropriate IPv4 address and subnet mask </li>
-        <li>Set up default gateway in PC</li>
-        <li>Test the setup with the ping command</li>
-      </ol>
-      <section>
-      <img src="../../../assets/images/archiveImages/october23/one/configuringRouter.png" alt="">
-      <p>Here is a console connection to configure a router</p>
+        </p>
+        <p> Outcome: Test the network with a ping command to ensure integrity of IP stack</p>
+        <ol>
+          <p>Steps</p>
+          <li>Determine private network IPv4 with appropriate subnet</li>
+          <li>add the first IP address and subnet mask to the router using ip address command</li>
+          <li>turn on the router interface</li>
+          <li>Configure PC with appropriate IPv4 address and subnet mask </li>
+          <li>Set up default gateway in PC</li>
+          <li>Test the setup with the ping command</li>
+        </ol>
         
-      <img src="../../../assets/images/archiveImages/october23/one/showIpIntB.png" alt="">
-      <p>Here is the ip address that is statically configured</p>
+        <p>Here is a console connection to configure a router</p>
+        <img src="../../../assets/images/archiveImages/october23/one/configuringRouter.png" alt="">
+        
+        <p>Here is the ip address that is statically configured</p>
+        <img src="../../../assets/images/archiveImages/october23/one/showIpIntB.png" alt="">
+        
 
-      <img src="../../../assets/images/archiveImages/october23/one/showIntType.png" alt="">
-      <p>Some details on the particular interface</p>
-      
-      <img src="../../../assets/images/archiveImages/october23/one/PCsetup.png" alt="">
-      <p>Setting up a PC for the network</p>
+        <p>Some details on the particular interface</p>
+        <img src="../../../assets/images/archiveImages/october23/one/showIntType.png" alt="">
         
-      <img src="../../../assets/images/archiveImages/october23/one/ping.png" alt="">
+        <p>Setting up a PC for the network</p>
+        <img src="../../../assets/images/archiveImages/october23/one/PCsetup.png" alt="">
+        
         <p>testing the IP stack</p>
+        <img src="../../../assets/images/archiveImages/october23/one/ping.png" alt="">
         
-      <img src="../../../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
-      <p>Here is a test of the connection and the finished typology</p>
-      </section>
-      <p>From here, one can add additional endpoints to the switch to make it a full LAN
+        <p>Here is the finished typology</p>
+        <img src="../../../assets/images/archiveImages/october23/one/configNetwork.png" alt="">
+      
+        <p>From here, one can add additional endpoints to the switch to make it a full LAN
         network. The process of configuring it is fundamentally the same as shown here. 
         Just configure each endpoint device with an IP address and default gateway. Test 
         with the ping tool and you have a LAN.
-      </p>
-    </article>
+        </p>
+      </article>
 
-    <aside>
-      <h3>Key Learnings</h3>
-      <ul>
-        <li>Ensure screenshots are as wide as possible rather than really tall</li>
-        <li>Make more focused screenshots</li>
-      </ul>
-    </aside>
+      <aside>
+        <h3>Key Learnings</h3>
+        <ul>
+          <li>Ensure screenshots are as wide as possible rather than really tall</li>
+          <li>Make more focused screenshots</li>
+        </ul>
+      </aside>
 
-    <hr>
+    </div>
+
     <footer><p>@Jason Dorsey</p></footer>
   </body>
 </html>
