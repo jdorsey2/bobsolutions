@@ -1,4 +1,4 @@
-/* Page layout*/
+/* Page layout for articled learning pages */
 #page-container {
     margin: 0 3rem 0 3rem;
 }
@@ -11,13 +11,9 @@ h1 {
 
 h2 {
     margin-top: 2rem;
-    font-weight: 400;
-    
+    font-weight: 400;    
 }
-/* may not need if this is in article*/
-.secondHeading {
-    margin-left: 2rem;
-}
+
 article {
     margin-left: 2rem;
     margin-top: 2rem;
@@ -26,7 +22,6 @@ article {
 article p {
     margin: 1rem 1rem 1rem 0;
 }
-
 
 /* Style*/
 p {
@@ -39,4 +34,8 @@ h1, h2 {
 }
 h1 p, h2 p {
     font-family: giorgia;
+}
+img { 
+    width: 30rem;
+    padding-bottom: 4px;
 }

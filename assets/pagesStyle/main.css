@@ -1,4 +1,4 @@
-/* main landing page on home site*/
+/* main landing page on home site, needs overhaul*/
 main {
     display: grid;
     grid-template-columns: 1fr 1fr;
